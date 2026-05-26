@@ -13,7 +13,8 @@ This project demonstrates the design and implementation of a modern Data Warehou
 
 The project follows industry-standard data engineering practices, including data ingestion, data cleansing, dimensional modeling, and analytical querying.
 
---🎯 Objectives-------------------------------
+--🎯 Objectives----------------------------
+
 Build a scalable and structured Data Warehouse from raw source data.
 Integrate data from multiple source systems into a unified analytical model.
 Perform data cleaning and transformation to improve data quality.

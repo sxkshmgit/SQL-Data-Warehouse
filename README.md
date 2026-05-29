@@ -73,25 +73,6 @@ The warehouse enables analysis of key business areas:
 .KPI reporting
 
 
-
-
---📁 Repository Structure---------------------------------
-sql-data-warehouse/
-│
-├── datasets/                   #Source datasets
-├── scripts/
-│   ├── bronze/                 # Raw data loading scripts
-│   ├── silver/                 # Data cleaning & transformation
-│   └── gold/                   # Dimensional model creation
-│
-├── docs/                       # Data model & architecture documentation
-├── diagrams/                   # ERD and architecture diagrams
-├── analytics/                  # Business analysis queries
-└── README.md
-
-
-
-
 --📚 Key Concepts Demonstrated-------------------------------------
 . Data Warehousing
 . ETL/ELT Pipelines
